@@ -20,6 +20,7 @@
 		GET - "http://localhost:8080/addEmp" - gets employee added
 		GET - "http://localhost:8080/findEmp/{id}" - gets employees with selected id
 		PUT - "http://localhost:8080/allEmp" - gets the list of all employees 
+		PUT - "http://localhost:8080/updateEmp/{id}" - update employee with selected id
 		DELETE - "http://localhost:8080/removeEmp/{id}" - deletes employees with selected id
 
 
