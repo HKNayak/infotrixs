@@ -3,7 +3,7 @@ Employee Management System
 
 We will implement the following features in this project:
 - List Employee Feature
-- 
+  
 - Add Employee Feature
 
 - Update Employee Feature
@@ -11,11 +11,11 @@ We will implement the following features in this project:
 - Delete Employee Feature
 
 Tools and technologies used:
--> Java 8+
+-> Java 17
 -> Spring Boot
 -> Spring Data JPA ( Hibernate)
 -> Spring Security
 -> MySQL
--> Eclipse STS
+-> STS 4
 -> Tomcat
 
